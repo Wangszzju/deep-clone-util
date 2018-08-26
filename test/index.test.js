@@ -1,4 +1,4 @@
-import deepClone from '../index';
+import deepClone from '../src/index';
 
 describe('deepClone', () => {
   function Sub() {

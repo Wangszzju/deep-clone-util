@@ -1,4 +1,4 @@
-import { getProtoTypeName } from '../utils';
+import { getProtoTypeName } from '../src/utils';
 
 describe('utils/getProtoTypeName', () => {
 
